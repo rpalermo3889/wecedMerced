@@ -1,0 +1,10 @@
+.Marquee{
+    padding: 1in;
+    padding-top: 0;
+    padding-bottom: 0;
+}
+
+img#marquee{
+    padding-left: 0.8in;
+    max-width: 5.4in;
+}

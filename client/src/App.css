@@ -1,0 +1,15 @@
+.App {
+
+}
+
+div{
+  padding-top: 10px;
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-bottom: 10px;
+}
+
+body{
+  background: linear-gradient(rgb(153, 217, 140), rgb(82, 182, 154));
+  background-attachment: fixed;
+}
